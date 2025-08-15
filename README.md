@@ -1,3 +1,5 @@
+SPAM DETECTION SYSTEM 
+
 A Spam Detection System is an intelligent classification tool that automatically identifies and filters out unwanted, irrelevant, or harmful messages from legitimate communication. The system’s primary goal is to protect users from spam, phishing attempts, and malicious content, while ensuring genuine messages are delivered without delay.
 
 In this project, we focus on text-based spam filtering for email or SMS messages using Natural Language Processing (NLP) and Machine Learning techniques. The workflow involves:
